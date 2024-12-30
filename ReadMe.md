@@ -1,7 +1,7 @@
 # DREAM for Combating Concept Drift
 
-This is the official implementation for our paper `DREAM: Combating Concept Drift with Explanatory Detection and Adaptation for Android Malware Classification`.
-This paper is currently undergoing a Major Revision for NDSS 2025. We have concealed two files in the main code (`/dream`) and will release the complete code upon acceptance.
+Code for paper `Combating Concept Drift with Explanatory Detection and Adaptation for Android Malware Classification`.
+This paper is currently under submission. We have concealed two files in the main code (`/dream`) and will release the complete code upon acceptance.
 
 ## Setup
 
