@@ -3,9 +3,10 @@
 '''
 @File    :   baseline_transcend.py
 @Time    :   2024/01/08 20:05:27
-@Author  :   Yiling He
-@Version :   1.0
-@Contact :   heyilinge0@gmail.com
+***************************************
+    Author & Contact Information
+    Concealed for Anonymous Review
+***************************************
 @License :   (C)Copyright 2024
 @Desc    :   adapted for DNN with arbitary number of output classes
 '''

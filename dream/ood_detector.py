@@ -3,9 +3,10 @@
 '''
 @File    :   ood_detector.py
 @Time    :   2023/12/18 13:17:37
-@Author  :   Yiling He
-@Version :   1.0
-@Contact :   heyilinge0@gmail.com
+***************************************
+    Author & Contact Information
+    Concealed for Anonymous Review
+***************************************
 @License :   (C)Copyright 2023
 @Desc    :   None
 '''

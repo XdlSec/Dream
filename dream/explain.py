@@ -3,9 +3,10 @@
 '''
 @File    :   cade_explain.py
 @Time    :   2024/01/10 13:44:23
-@Author  :   Yiling He
-@Version :   1.0
-@Contact :   heyilinge0@gmail.com
+***************************************
+    Author & Contact Information
+    Concealed for Anonymous Review
+***************************************
 @License :   (C)Copyright 2024
 @Desc    :   Adapted from CADE, support tf2
 '''

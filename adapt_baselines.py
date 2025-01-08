@@ -3,9 +3,10 @@
 '''
 @File    :   adapt_baselines.py
 @Time    :   2024/08/27 11:31:11
-@Author  :   Yiling He
-@Version :   1.0
-@Contact :   heyilinge0@gmail.com
+***************************************
+    Author & Contact Information
+    Concealed for Anonymous Review
+***************************************
 @License :   (C)Copyright 2024
 @Desc    :   Inter-drift adaptation experiments with more samplers and training strategies
 '''

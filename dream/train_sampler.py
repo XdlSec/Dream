@@ -3,9 +3,10 @@
 '''
 @File    :   train_sampler.py
 @Time    :   2023/10/25 19:26:13
-@Author  :   Yiling He
-@Version :   1.0
-@Contact :   heyilinge0@gmail.com
+***************************************
+    Author & Contact Information
+    Concealed for Anonymous Review
+***************************************
 @License :   (C)Copyright 2023
 @Desc    :   None
 '''

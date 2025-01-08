@@ -3,9 +3,10 @@
 '''
 @File    :   test_classifiers.py
 @Time    :   2023/07/26 15:30:26
-@Author  :   Yiling He
-@Version :   1.0
-@Contact :   heyilinge0@gmail.com
+***************************************
+    Author & Contact Information
+    Concealed for Anonymous Review
+***************************************
 @License :   (C)Copyright 2023
 @Desc    :   None
 '''

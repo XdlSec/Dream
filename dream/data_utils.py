@@ -3,9 +3,10 @@
 '''
 @File    :   data_utils.py
 @Time    :   2024/10/07 15:26:41
-@Author  :   Yiling He
-@Version :   1.0
-@Contact :   heyilinge0@gmail.com
+***************************************
+    Author & Contact Information
+    Concealed for Anonymous Review
+***************************************
 @License :   (C)Copyright 2024
 @Desc    :   None
 '''

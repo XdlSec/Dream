@@ -3,9 +3,10 @@
 '''
 @File    :   explain_drift.py
 @Time    :   2024/01/09 20:35:04
-@Author  :   Yiling He
-@Version :   1.0
-@Contact :   heyilinge0@gmail.com
+***************************************
+    Author & Contact Information
+    Concealed for Anonymous Review
+***************************************
 @License :   (C)Copyright 2024
 @Desc    :   None
 '''
